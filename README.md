@@ -5,5 +5,5 @@ Dependencies:<br/>
 
 Instructions:<br/>
 (1) Download repo<br/>
-(2) run `python analysis.py`
+(2) run `python sort_scrape.py`
 
