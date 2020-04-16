@@ -1,6 +1,6 @@
 # SORT CSV DICTIONARY
 
-This python script takes the csv file created by my python web scraper and sorts the data alphabetically by 'author' and produces a new sorted csv file.
+I created this repository as an exercise for python. This python script takes the csv file created by my python web scraper and sorts the data alphabetically by 'author' and produces a new sorted csv file.
 
 DEPENDENCIES:<br/>
 (1) csv
