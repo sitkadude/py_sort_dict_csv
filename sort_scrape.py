@@ -17,3 +17,4 @@ writer.writeheader()
 writer.writerows(result)
 
 print("Sort complete!")
+print("New csv outfile created.")
